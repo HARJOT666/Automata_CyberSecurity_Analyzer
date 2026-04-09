@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.exe
+*.log
+.env
+.idea/
+.vscode/
